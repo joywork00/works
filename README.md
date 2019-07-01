@@ -6,4 +6,10 @@
 
 [joy page](https://joywork00.github.io/)
 
-<img src="IMG_0162.jpg" alt="mouse1" width="950" height="700">
+<img src="IMG_0162.jpg" alt="mouse1" width="950" height="550">
+
+<img src="IMG_4442.jpg" alt="mouse1" width="950" height="550">
+
+<img src="IMG_4433.jpg" alt="mouse1" width="950" height="550">
+
+<img src="IMG_4442.jpg" onmouseover="this.src=' IMG_4433.jpg ';" onmouseout="this.src=' IMG_4442.jpg ';" width="idth="950" height="550">
