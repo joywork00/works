@@ -12,4 +12,4 @@
 
 <img src="IMG_4433.jpg" alt="mouse1" width="950" height="550">
 
-<img src="IMG_4442.jpg" onmouseover="this.src=' IMG_4433.jpg ';" onmouseout="this.src=' IMG_4442.jpg ';" width="950" height="550">
+
