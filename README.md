@@ -5,4 +5,4 @@
 [joy page](https://joywork00.github.io/)
 
 
-<img src="IMG_0162.jpg" alt="mouse1" width="950" height="950">
+<img src="IMG_0162.jpg" alt="mouse1" width="950" height="900">
